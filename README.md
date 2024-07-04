@@ -3,6 +3,7 @@
 **About Me**
 
 I'm a passionate college student pursuing full-stack development, currently in my final year at National Institute Of Technology, Jamshedpur. My interests lie in creating robust web applications using modern technologies like:
+
     Frontend: HTML, CSS (including CSS frameworks like Bootstrap), JavaScript (ES6+), React (Redux, Context API)
     Backend: Node.js, Express.js, MongoDB (Mongoose), RESTful APIs
     Database: MongoDB
